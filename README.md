@@ -6,7 +6,7 @@ Manifesto:
 
 1. All components should be directly visible in the docs.
 2. Typescript first.
-3. Accessible by default.
+3. Accessible components by default.
 4. Website should take inspiration from radix in terms of docs.
 5. Base off radix and makes those components react native web compat.
 6. Basic shadcn components react native web compat.
